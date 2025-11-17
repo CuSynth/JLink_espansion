@@ -24,3 +24,7 @@ The board converts the large 40-pin header into a single 8-pin PicoBlade connect
 2. Use the 8-pin PicoBlade as the primary JTAG output to the target hardware.  
 3. Enable the slide switch if you need to supply 5 V to the target through the PicoBlade connector.  
 4. Use the onboard LEDs to verify presence of VRef and the state of the switched 5 V rail.
+
+## Component library
+Project is based on [AD_lib](https://github.com/a-styuf/AD_lib) Altium component library.
+
